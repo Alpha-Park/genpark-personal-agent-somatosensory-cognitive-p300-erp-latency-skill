@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-somatosensory-cognitive-p300-erp-latency-skill",
+  "version": "1.0.0",
+  "description": "Calculates Event-Related Potential P300 Peak Latency (ms), P300 Amplitude (uV), Age-Adjusted Latency Deviation, and Motor Processing Slack using oddball paradigm electrophysiology.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "neurophysiology",
+    "cognitive",
+    "p300",
+    "erp",
+    "oddball",
+    "attention",
+    "reaction-time",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
